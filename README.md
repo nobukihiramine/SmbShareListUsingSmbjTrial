@@ -18,7 +18,6 @@ See the [LICENSE](LICENSE) file for more details.
 (本アプリケーションのソースコードのライセンスは、「Apache License, Version 2.0」です。  
 詳細は「[LICENSE](LICENSE)」ファイルを参照ください。)
 
-
 ## Libraries : ライブラリ
 This application makes use of the following libraries.  
 (本アプリケーションは、以下のライブラリを使用しています)
