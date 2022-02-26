@@ -6,22 +6,23 @@ SMBJ を使用して、SMB共有のリストを取得する方法の試行
 
 ## Requirements : 必要条件、依存関係
 - Android Studio 2020.3.1 Patch3
-- [smbj](https://github.com/hierynomus/smbj) : 0.11.3
+- smbj : 0.11.3
 
 ## Author : 作者
-Nobuki HIRAMINE : [http://www.hiramine.com](http://www.hiramine.com)
+Nobuki HIRAMINE : http://www.hiramine.com
 
 ## License : ライセンス
 Copyright 2022 Nobuki HIRAMINE  
-The source code is licensed under the Apache License, Version 2.0.
+The source code is licensed under the Apache License, Version 2.0.  
 See the [LICENSE](LICENSE) file for more details.  
-(本アプリケーションのソースコードのライセンスは、「Apache License, Version 2.0」です。詳細は「[LICENSE](LICENSE)」を参照ください。）
+(本アプリケーションのソースコードのライセンスは、「Apache License, Version 2.0」です。  
+詳細は「[LICENSE](LICENSE)」ファイルを参照ください。)
 
 
 ## Libraries : ライブラリ
 This application makes use of the following libraries.  
-(本アプリケーションは、以下のライブラリを使用しています）
+(本アプリケーションは、以下のライブラリを使用しています)
 
-smbj : (https://github.com/hierynomus/smbj)
+smbj : https://github.com/hierynomus/smbj
 > Copyright (C)2016 - SMBJ Contributors  
 > Licensed under the Apache License, Version 2.0
