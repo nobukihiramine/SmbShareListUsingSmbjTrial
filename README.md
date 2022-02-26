@@ -23,5 +23,5 @@ This application makes use of the following libraries.
 (本アプリケーションは、以下のライブラリを使用しています)
 
 smbj : https://github.com/hierynomus/smbj
-> Copyright (C)2016 - SMBJ Contributors  
+> Copyright (C)2016 - SMBJ Contributors
 > Licensed under the Apache License, Version 2.0
